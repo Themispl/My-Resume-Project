@@ -36,7 +36,7 @@ const data=[
         image:IMG4,
         title:'My Resume',
         github:'https://github.com/Themispl',
-        demo:'https://github.com/Themispl/loginpage',
+        demo:'https://themispl.github.io/My-Resume-Project/',
     },
 ]
 
