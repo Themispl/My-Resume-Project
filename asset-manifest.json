@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Themispl/My-Resume-Project/static/css/main.df95d0b4.css",
+    "main.js": "/Themispl/My-Resume-Project/static/js/main.8d246fe5.js",
+    "static/media/back9.jpg": "/Themispl/My-Resume-Project/static/media/back9.429e99d5147b4dff829d.jpg",
+    "static/media/login.png": "/Themispl/My-Resume-Project/static/media/login.8d9bed8f8409d32bdcc6.png",
+    "static/media/cv.png": "/Themispl/My-Resume-Project/static/media/cv.0d6b4d7fb8e45dff1fef.png",
+    "static/media/Themis.jpg": "/Themispl/My-Resume-Project/static/media/Themis.6c33530ee48173e07ff1.jpg",
+    "static/media/dice.png": "/Themispl/My-Resume-Project/static/media/dice.66651e7baa58b19aaed9.png",
+    "static/media/me.png": "/Themispl/My-Resume-Project/static/media/me.17a90b59654080278cb0.png",
+    "static/media/CV.pdf": "/Themispl/My-Resume-Project/static/media/CV.ae5656f9c690b85e904e.pdf",
+    "static/media/culc.png": "/Themispl/My-Resume-Project/static/media/culc.a089c494426eb7691032.png",
+    "index.html": "/Themispl/My-Resume-Project/index.html",
+    "main.df95d0b4.css.map": "/Themispl/My-Resume-Project/static/css/main.df95d0b4.css.map",
+    "main.8d246fe5.js.map": "/Themispl/My-Resume-Project/static/js/main.8d246fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df95d0b4.css",
+    "static/js/main.8d246fe5.js"
+  ]
+}
