@@ -1,9 +1,9 @@
 import React from "react"; 
 import './Portfolio.css';
-import IMG1 from '../../assets/back1.jpg'
-import IMG2 from '../../assets/back2.jpg'
-import IMG3 from '../../assets/back3.jpg'
-import IMG4 from '../../assets/back3.jpg'
+import IMG1 from '../../assets/login.png'
+import IMG2 from '../../assets/culc.png'
+import IMG3 from '../../assets/dice.png'
+import IMG4 from '../../assets/cv.png'
 import { Pagination} from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
@@ -34,7 +34,7 @@ const data=[
     {
         id:4,
         image:IMG4,
-        title:'Login Page',
+        title:'My Resume',
         github:'https://github.com/Themispl',
         demo:'https://github.com/Themispl/loginpage',
     },
