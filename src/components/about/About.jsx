@@ -22,12 +22,12 @@ const About= () =>{
                         <article className="about_card">
                             <FaAward className="about_icon"/>
                             <h5>Experience</h5>
-                            <small>Entry Level</small>
+                            <small>Junior Level</small>
                         </article>
                         <article className="about_card">
                             <FiUsers className="about_icon"/>
                             <h5>Work Experience</h5>
-                            <small>Entry Level</small>
+                            <small>Junior Level</small>
                         </article>
                         <article className="about_card">
                             <LuFolderEdit className="about_icon"/>
@@ -37,7 +37,7 @@ const About= () =>{
                     </div>
 
                     <p>
-                    While I may not possess a formal degree, I have been actively engaged in expanding my knowledge through online courses, tutorials, and practical projects. This self directed learning approach has allowed me to develop a solid foundation in HTML, CSS, JavaScript, angular and other essential web technologies. Furthermore, I have gained handson experience in building responsive and user on various personal projects. What sets me apart is my dedication to staying uptofriendly websites by collaborating date with the latest trends and best practices in front end development. I possess strong communication and interpersonal skills, which allow me to effectively collaborate with cross-functional teams. My experience working in team environments has honed my ability to actively listen, adapt to diverse perspectives, and contribute constructively to discussions. Additionally, I have demonstrated leadership qualities by ta king initiative, coordinating tasks, and motivating team members to deliver projects. These skills, combined with my technical expertise, enable me to not only meet project requirements but also foster a positive and productive work atmosphere.
+                    I have actively pursued expanding my knowledge through online courses, certificates, and hands-on projects. This self-directed learning has enabled me to build a  foundation in HTML, CSS, JavaScript, Angular, and other critical web technologies as well in the back-end with Java tecnologies .  My commitment to keeping abreast of the latest trends and best practices in front-end development sets me apart. I have strong communication and interpersonal skills, which facilitate effective collaboration with cross-functional teams. Working in team settings has refined my abilities to listen actively, embrace diverse viewpoints, and contribute positively to discussions. I have also exhibited leadership by taking initiative, coordinating tasks, and inspiring team members to achieve project goals. These competencies, along with my technical acumen, empower me to fulfill project demands and foster a positive, productive work environment.  
                     </p>
 
                     <a href="#Contact" className="btn btn-primary">Let's Talk</a>
